@@ -1,5 +1,3 @@
-# 第5课 课后作业
+# 第 5 课 练习
 
-## 第1题 xxxxxx
-
-xxxxxx
+作业见[HW5.pdf](/lecture5/HW5.pdf).
